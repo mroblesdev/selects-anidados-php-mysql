@@ -1,4 +1,4 @@
-# Proyecto de Selects Anidados en PHP, MySQL y JavaScript
+# Selects Anidados en PHP, MySQL y JavaScript
 
 Este proyecto demuestra un sistema de selección anidada implementado en PHP, MySQL y JavaScript. Permite a los usuarios elegir un estado, lo que carga una lista de municipios asociados. Luego, al elegir un municipio, se cargan las localidades correspondientes.
 
@@ -6,9 +6,9 @@ Este proyecto demuestra un sistema de selección anidada implementado en PHP, My
 
 1. Configuración
 
-   - Descarga el proyecto y copia+ la carpeta en el htdocs o www de tu servidor web.
+   - Descarga el proyecto y copia la carpeta en el htdocs o www de tu servidor web.
    - Asegúrate de tener una base de datos MySQL llamada 'mexico' con las tablas y datos adecuados. Puedes importar el archivo ```mexico.sql``` proporcionado.
-   - Abre ```conexion.php``` y verifica que los datos de conexión a la base de datos (host, usuario, contraseña y nombre de la base de datos) sean correctos.
+   - Abre ```inc/conexion.php``` y verifica que los datos de conexión a la base de datos (host, usuario, contraseña y nombre de la base de datos) sean correctos.
    - Inicia tu servidor web y abre index.php en tu navegador. ```http://localhost/nombre_de_tu_carpeta```
 
 2. Interacción con la Vista
@@ -19,7 +19,7 @@ Este proyecto demuestra un sistema de selección anidada implementado en PHP, My
 ## Expresiones de Gratitud 🎁
 
 - Comenta a otros sobre este proyecto 📢
-- Invita una cerveza 🍺 o un café ☕ [Da clic aquí](https://www.paypal.com/paypalme/markorobles?locale.x=es_XC.).
+- Invitame una cerveza 🍺 o un café ☕ [Da clic aquí](https://www.paypal.com/paypalme/markorobles?locale.x=es_XC.).
 - Da las gracias públicamente 🤓.
 
 ## Notas 📑
